@@ -3,3 +3,9 @@ $ tree -F -L 1
 $ ng serve # @http://localhost:4200
 $ ng generate component {compName} #Self explanatory
 *ngFor="" #FOR loop declared in html component template
+#newtitle #Creating local var OBJECT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+(click)="addArticle"(newtitle, newlink)
+
+
+A good practice when writing ang 2 app is to separate the data structures
+from the component code !!!!!!
