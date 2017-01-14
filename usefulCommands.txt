@@ -1,0 +1,5 @@
+$ ng new {projectName} #Creates new ang2 project
+$ tree -F -L 1
+$ ng serve # @http://localhost:4200
+$ ng generate component {compName} #Self explanatory
+*ngFor="" #FOR loop declared in html component template
